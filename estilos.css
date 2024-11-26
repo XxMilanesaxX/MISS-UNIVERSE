@@ -1,0 +1,23 @@
+/* Centrar las imágenes dentro del contenedor */
+.contenedor {
+    display: flex; /* Activa Flexbox */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Opcional: centra verticalmente si es necesario */
+    margin: 20px 0; /* Añade espacio entre imágenes */
+  }
+  
+  .centrada {
+    max-width: 80%; /* Ajusta el ancho máximo de las imágenes */
+    height: auto; /* Mantiene las proporciones */
+
+  }
+  <html>
+   <head>
+     <style type="text/css"
+        h1{font-estyle:italic}
+        h1{color: goldenrod;}
+        p{color: rgb(255, 255, 255);}
+
+  body{background-image: url("IMAGENES/istockphoto-535504148-612x612.jpg")}
+    h2{color: aliceblue;}
+    h3{color: goldenrod;}
